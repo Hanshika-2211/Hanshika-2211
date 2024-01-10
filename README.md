@@ -29,4 +29,3 @@
 ![snake gif](https://github.com/Hanshika-2211/Hanshika-2211/blob/output/github-contribution-grid-snake.gif)
 
 
-
