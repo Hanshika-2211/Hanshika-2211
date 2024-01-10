@@ -26,3 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanshika-2211&show_icons=true&locale=en&layout=compact" alt="hanshika-2211" /></p>
 
+![snake gif](https://github.com/Hanshika-2211/Hanshika-2211/blob/output/github-contribution-grid-snake.gif)
+
+
+
