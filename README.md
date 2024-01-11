@@ -1,3 +1,4 @@
+<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hanshika-2211.Hanshika-2211" />
 
 <h1 align="center">
@@ -68,6 +69,8 @@
 
 <div align="center">
 <h2 align="center"><b> Thank You! </b></h2>
+<img align="center" src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif">
+
 </div>
 
 <br/>
