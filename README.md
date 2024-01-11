@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **CSS, Wireframes**
 
-💬 Ask me about **HTML, Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML, Python... or anything [here](https://github.com/Hanshika-2211/Hanshika-2211/issues)**
 
 ⚡ Fun fact **The first computer mouse was made of wood in 1964 by Doug Engelbart🖱️🌲**
 
@@ -45,7 +45,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
