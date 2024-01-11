@@ -1,4 +1,4 @@
-<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+<img align="center" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height=40% width=40%>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hanshika-2211.Hanshika-2211" />
 
 <h1 align="center">
