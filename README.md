@@ -19,16 +19,11 @@
 ⚡ Fun fact **The first computer mouse was made of wood in 1964 by Doug Engelbart🖱️🌲**
 
  </div><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
- 
+ <p align="center"> 📫 Reach out to me at 2023.hanshikaa@isu.ac.in for professional inquiries and collaboration discussions.</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><div align="center"> 
-<a href="mailto:2023.hanshikaa@isu.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hanshika-anchan-259451297" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Hanshika-2211" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <a href="https://twitter.com/hanshikaanchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanshikaanchan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hanshika-anchan-259451297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanshika anchan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.hanshika._2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hanshika._2211" height="30" width="40" /></a>
   </a>
 </div><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
